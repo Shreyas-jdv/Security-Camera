@@ -21,4 +21,4 @@ while cam.isOpened():
 
     if cv2.waitKey(10) == ord('q'):
         break
-    cv2.imshow('DONNY Scurity Camera', frame1)
+    cv2.imshow('Security Camera', frame1)
