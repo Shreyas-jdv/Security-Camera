@@ -1,6 +1,7 @@
 # Security-Camera
 This camera captures the movements of objects and protect it from theft 
 30 lines of Python code is enough to build a security camera with advanced burglar detection techniques.
+Press 'Q' to turn off the camera ;) 
 # Technology Involved
 - Python 
 - Opencv 
